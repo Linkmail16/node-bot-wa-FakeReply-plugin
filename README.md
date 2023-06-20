@@ -5,4 +5,6 @@ fake reply - fake chat - fakereply - fakechat plugin for WhatsApp bot baileys
 
 fakereply "number" - "text message" - "text reply" 
 
-^^^^^^ command
+^^^^^^ 
+
+command
